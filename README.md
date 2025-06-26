@@ -5,7 +5,7 @@ This project demonstrates essential data analysis skills using real-world scenar
 
 ## 📁 Project Structure 
 
-``` kirana-store-analytics/ ├── data/ # Raw sales data │ └── sales_data.csv ├── notebook/ # Main analysis notebook │ └── analysis.ipynb ├── scripts/ # Helper Python functions │ └── utils.py └── README.md # Documentation file ``` </pre>
+<pre> ``` kirana-store-analytics/ ├── data/ # Raw sales data │ └── sales_data.csv ├── notebook/ # Main analysis notebook │ └── analysis.ipynb ├── scripts/ # Helper Python functions │ └── utils.py └── README.md # Documentation file ``` </pre>
 
 ## 📝 Description
 - This project helps small retailers or Kirana shop owners to:

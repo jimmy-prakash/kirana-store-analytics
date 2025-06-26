@@ -48,7 +48,7 @@ Plots generated using Matplotlib/Seaborn to show:
 
 ## ⚙️ How to Run
 **Step 1** Clone the repository
- - git clone https://github.com/jimmy-prakash/kirana-store-analytics.git
+ - https://github.com/jimmy-prakash/kirana-store-analytics.git
 
 **Step 2** Navigate to the project folder
  - cd kirana-store-analytics

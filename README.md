@@ -54,8 +54,10 @@ Plots generated using Matplotlib/Seaborn to show:
 ## ⚙️ How to Run
 **Step 1** Clone the repository
  - git clone https://github.com/jimmy-prakash/kirana-store-analytics.git
+
 **Step 2** Navigate to the project folder
  - cd kirana-store-analytics
+
 **Step 3** Open the Jupyter Notebook
  - jupyter notebook notebook/analysis.ipynb
 Run all notebook cells step-by-step to view the analysis output.
@@ -74,6 +76,7 @@ Run all notebook cells step-by-step to view the analysis output.
 
 ## 🙋‍♂️ Author
 Jimmy Prakash
-Aspiring Data Analyst focused on solving real-world problems using Python
+Aspiring Data Analyst focused on solving real-world problems using Python.
+
 🔗 github.com/jimmy-prakash
 

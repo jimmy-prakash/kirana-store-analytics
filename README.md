@@ -21,7 +21,7 @@ This project helps small retailers or Kirana shop owners to:
 - Understand sales performance
 - Track product demand patterns
 - Gain insights for better business decisions
-Designed for Python learners who want to apply real-world data analytics skills using Pandas and NumPy.
+> Designed for Python learners who want to apply real-world data analytics skills using Pandas and NumPy.
 
 ## 🎯 Core Objectives
 - Analyze daily & weekly sales performance

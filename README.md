@@ -17,7 +17,7 @@ kirana-store-analytics/
 ```
 
 ## 📝 Description
-- This project helps small retailers or Kirana shop owners to:
+This project helps small retailers or Kirana shop owners to:
 - Understand sales performance
 - Track product demand patterns
 - Gain insights for better business decisions

@@ -3,7 +3,8 @@
 An end-to-end, beginner-friendly Python data analytics project that simulates sales tracking for a local Kirana (grocery) store.
 This project demonstrates essential data analysis skills using real-world scenarios like identifying top-selling products, tracking trends, and generating insights — all through pure Python and Jupyter Notebook.
 
- ## 📁 Project Structure ``` kirana-store-analytics/ ├── data/ # Raw sales data │ └── sales_data.csv ├── notebook/ # Main analysis notebook │ └── analysis.ipynb ├── scripts/ # Helper Python functions │ └── utils.py └── README.md # Documentation file ``` 
+ ## 📁 Project Structure 
+ ``` kirana-store-analytics/ ├── data/ # Raw sales data │ └── sales_data.csv ├── notebook/ # Main analysis notebook │ └── analysis.ipynb ├── scripts/ # Helper Python functions │ └── utils.py └── README.md # Documentation file ``` 
 
 ## 📝 Description
 - This project helps small retailers or Kirana shop owners to:

@@ -83,6 +83,7 @@ Run all notebook cells step-by-step to view the analysis output.
 
 ## 🙋‍♂️ Author
 Jimmy Prakash
+
 Aspiring Data Analyst focused on solving real-world problems using Python.
 
 🔗 github.com/jimmy-prakash

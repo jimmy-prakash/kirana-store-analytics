@@ -86,11 +86,12 @@ See visuals in `/outputs/`:
 Run all notebook cells step-by-step to view the analysis output.
 
 ## 🧠 Skills Demonstrated
-- Data Cleaning & Handling Missing Values
-- Filtering, Sorting, Aggregation
-- GroupBy, Pivot Tables
-- Data Visualization (Bar, Line, Pie Charts)
-- Python File Structure & Modularity
+- Data Cleaning & Handling Missing Values  
+- Filtering, Sorting, Aggregation  
+- GroupBy, Pivot Tables  
+- Data Visualization (Bar, Line, Pie Charts)  
+- Python File Structure & Modularity  
+- Designed and executed a modular, reproducible data pipeline combining custom Python scripts (`utils.py`) with Jupyter-based analysis.
 
 ## 🚀 Future Enhancements
 - Add more advanced visualizations

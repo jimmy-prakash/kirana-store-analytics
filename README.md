@@ -59,10 +59,16 @@ This project helps small retailers or Kirana shop owners to:
 
 ## 📊 Sample Output
 Plots generated using Matplotlib/Seaborn to show:
-- Top products by quantity
-- Daily and weekly revenue trends
-- Category-wise sales performance
-(See: outputs/sample_plot.png)
+- Top products by quantity  
+- Daily and weekly revenue trends  
+- Category-wise sales performance  
+
+See visuals in `/outputs/`:  
+- `top_items.png` — Top 5 items by total revenue  
+- `category_revenue.png` — Revenue share by category  
+- `daily_trend.png` — Daily revenue trend  
+- `weekly_trend.png` — Weekly aggregated revenue trend
+
 
 ## ⚙️ How to Run
 **Step 1** Clone the repository

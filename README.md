@@ -34,10 +34,10 @@ This project helps small retailers or Kirana shop owners to:
 > Ideal for Python learners who want to apply real-world data analytics skills using Pandas and NumPy.
 
 ## 🎯 Core Objectives
-- Analyze daily & weekly sales performance
-- Identify best-selling items (by quantity and revenue)
-- Visualize product trends and category-wise sales
-- Detect weekly demand patterns
+- Analyze daily and weekly sales performance
+- Identify top-performing items and categories by revenue
+- Visualize revenue trends and category distribution
+- Detect short-term (weekly) demand patterns within available data
 
 ## 📁 Dataset
 - Format: .csv

@@ -27,7 +27,7 @@ This project helps small retailers or Kirana shop owners to:
 - Analyze daily & weekly sales performance
 - Identify best-selling items (by quantity and revenue)
 - Visualize product trends and category-wise sales
-- Detect seasonal or weekly demand patterns
+- Detect weekly demand patterns
 
 ## 📁 Dataset
 - Format: .csv

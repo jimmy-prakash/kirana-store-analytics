@@ -120,7 +120,7 @@ Run all notebook cells step by step to view the analysis output.
 
 👤 Jimmi Prakash
 
-Aspiring Data Analyst focused on deriving actionable business insights through Python-based data analytics.
+Aspiring Data Analyst passionate about deriving actionable business insights through Python-based data analytics.
 
 🔗 github.com/jimmy-prakash
 

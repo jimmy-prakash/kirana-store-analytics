@@ -5,15 +5,25 @@ This project demonstrates essential data analysis skills using real-world scenar
 
 ## 📁 Project Structure 
 
-``` 
+```
 kirana-store-analytics/
-├── data/ # Raw sales data
-│ └── sales_data.csv
-├── notebook/ # Main analysis notebook
-│ └── analysis.ipynb
-├── scripts/ # Helper Python functions
-│ └── utils.py
-└── README.md # Documentation file
+├── data/
+│   ├── sales_data.csv              # Raw data (optional)
+│   └── sales_data_cleaned.csv      # Cleaned data (ready for EDA)
+│
+├── notebook/
+│   └── analysis.ipynb              # Final, renamed clean notebook
+│
+├── scripts/
+│   └── utils.py                    # Helper cleaning functions
+│
+├── outputs/
+│   ├── top_items.png               # Visualization 1
+│   ├── category_revenue.png        # Visualization 2
+│   ├── daily_trend.png             # Visualization 3
+│   └── weekly_trend.png            # Visualization 4
+│
+└── README.md                       # Documentation
 ```
 
 ## 📝 Description

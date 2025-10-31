@@ -43,10 +43,10 @@ This project helps small retailers or Kirana shop owners to:
 - Format: .csv
 - Fields include:
    - Date
-   - Product Name
+   - Item
    - Category
-   - Quantity Sold
-   - Unit Price
+   - Quantity 
+   - Price
    - Total Revenue
 
 ## 🧰 Tools & Libraries Used

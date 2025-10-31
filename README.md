@@ -97,6 +97,7 @@ Run all notebook cells step-by-step to view the analysis output.
 - Add more advanced visualizations
 - Include inventory-level summary tables
 - Create downloadable daily/weekly sales reports
+- Extend the dataset to a multi-month or yearly range to analyze seasonal sales patterns.
 
 ## 🙋‍♂️ Author
 Jimmy Prakash

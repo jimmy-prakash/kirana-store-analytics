@@ -114,8 +114,11 @@ Run all notebook cells step by step to view the analysis output.
 - Extend the dataset to a multi-month or yearly range to analyze seasonal sales patterns.
 
 🧾 Author
+
 👤 Jimmi Prakash
+
 Aspiring Data Analyst focused on deriving actionable business insights through Python-based data analytics.
+
 📧 Contact via GitHub Profile
 
 

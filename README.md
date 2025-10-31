@@ -4,7 +4,8 @@ A Python-based Exploratory Data Analysis (EDA) project designed to uncover key s
 
 This project demonstrates end-to-end data analysis - including data cleaning, transformation, trend detection, and visualization - using Pandas, Matplotlib, and modular Python scripting.
 
-It follows a structured, professional workflow: raw data cleaned and standardized through custom utility functions in utils.py, analysis performed in Jupyter Notebook, and final visualizations exported to the /outputs directory.
+It follows a structured, professional workflow: raw data cleaned and standardized through custom utility functions in `utils.py`, analysis performed in Jupyter Notebook, and final visualizations exported to the `/outputs` directory.
+
 
 ## 📁 Project Structure 
 

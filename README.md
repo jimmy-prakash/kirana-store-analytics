@@ -119,8 +119,8 @@ Run all notebook cells step by step to view the analysis output.
 
 Aspiring Data Analyst focused on deriving actionable business insights through Python-based data analytics.
 
-📧 Contact via GitHub Profile
-
-
 🔗 github.com/jimmy-prakash
+
+
+
 

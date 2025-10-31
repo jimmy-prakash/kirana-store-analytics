@@ -1,7 +1,6 @@
 # 🛒 Local Kirana Store Analytics System
 
-An end-to-end, beginner-friendly Python data analytics project that simulates sales tracking for a local Kirana (grocery) store.  
-This project demonstrates essential data analysis skills using real-world scenarios like identifying top-selling products, tracking trends, and generating insights — all through pure Python and Jupyter Notebook.  
+An end-to-end, beginner-friendly Python data analytics project that simulates sales tracking for a local Kirana (grocery) store. This project demonstrates essential data analysis skills using real-world scenarios like identifying top-selling products, tracking trends, and generating insights — all through pure Python and Jupyter Notebook.  
 
 This project was developed using a structured, modular workflow — data cleaning via `utils.py`, analysis via Jupyter Notebook, and visualization stored in `/outputs`.
 

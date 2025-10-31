@@ -70,11 +70,18 @@ See visuals in `/outputs/`:
 - `daily_trend.png` — Daily revenue trend  
 - `weekly_trend.png` — Weekly aggregated revenue trend
 
-## 📊 Sample Visuals
+## 📊 Sales Performance Visuals
 
+### 🛒 Top-Selling Items
 ![Top Items](outputs/top_items.png)
+
+### 🧺 Category-wise Revenue
 ![Category Revenue](outputs/category_revenue.png)
+
+### 📅 Daily Sales Trend
 ![Daily Trend](outputs/daily_trend.png)
+
+### 📈 Weekly Revenue Trend
 ![Weekly Trend](outputs/weekly_trend.png)
 
 ## ⚙️ How to Run
@@ -90,7 +97,7 @@ See visuals in `/outputs/`:
   
     jupyter notebook notebook/analysis.ipynb
 
-Run all notebook cells step-by-step to view the analysis output.
+Run all notebook cells step by step to view the analysis output.
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning & Handling Missing Values  

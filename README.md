@@ -71,6 +71,12 @@ See visuals in `/outputs/`:
 - `daily_trend.png` — Daily revenue trend  
 - `weekly_trend.png` — Weekly aggregated revenue trend
 
+## 📊 Sample Visuals
+
+![Top Items](outputs/top_items.png)
+![Category Revenue](outputs/category_revenue.png)
+![Daily Trend](outputs/daily_trend.png)
+![Weekly Trend](outputs/weekly_trend.png)
 
 ## ⚙️ How to Run
 **Step 1** Clone the repository
